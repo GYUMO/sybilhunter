@@ -8,7 +8,7 @@ import (
 	"sort"
 	"time"
 
-	tor "git.torproject.org/user/phw/zoossh.git"
+	tor "github.com/NullHypothesis/zoossh.git"
 )
 
 // RouterStatusSorter implements the sort interface to sort router statuses by

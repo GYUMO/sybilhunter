@@ -11,7 +11,7 @@ import (
 	"strings"
 	"sync"
 
-	tor "git.torproject.org/user/phw/zoossh.git"
+	tor "github.com/NullHypothesis/zoossh.git"
 )
 
 // NetblockMap maps a network name to a set of netblocks.
