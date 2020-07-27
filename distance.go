@@ -4,7 +4,7 @@ package main
 import (
 	"fmt"
 
-	tor "github.com/NullHypothesis/zooss"
+	tor "github.com/NullHypothesis/zoossh"
 	cluster "github.com/NullHypothesis/mlgo/cluster"
 	levenshtein "github.com/arbovm/levenshtein"
 	statistics "github.com/mcgrew/gostats"

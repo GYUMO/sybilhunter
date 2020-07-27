@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	tor "github.com/NullHypothesis/zooss"
+	tor "github.com/NullHypothesis/zoossh"
 	vptree "github.com/DataWraith/vptree"
 )
 

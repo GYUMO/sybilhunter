@@ -7,7 +7,7 @@ import (
 	"log"
 	"sync"
 
-	tor "github.com/NullHypothesis/zooss"
+	tor "github.com/NullHypothesis/zoossh"
 )
 
 var printedBanner bool = false

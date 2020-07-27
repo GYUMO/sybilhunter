@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	tor "github.com/NullHypothesis/zooss"
+	tor "github.com/NullHypothesis/zoossh"
 	cluster "github.com/NullHypothesis/mlgo/cluster"
 )
 

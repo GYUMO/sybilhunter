@@ -8,7 +8,7 @@ import (
 	"sort"
 	"sync"
 
-	tor "github.com/NullHypothesis/zooss"
+	tor "github.com/NullHypothesis/zoossh"
 )
 
 // SortRelays stores relay fingerprints and their respective bandwidth values.
