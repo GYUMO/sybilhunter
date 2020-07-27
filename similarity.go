@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	tor "github.com/NullHypothesis/zoossh.git"
+	tor "github.com/NullHypothesis/zoossh"
 	levenshtein "github.com/arbovm/levenshtein"
 )
 

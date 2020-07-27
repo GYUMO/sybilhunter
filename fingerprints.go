@@ -8,7 +8,7 @@ import (
 	"sort"
 	"sync"
 
-	tor "github.com/NullHypothesis/zoossh.git"
+	tor "github.com/NullHypothesis/zoossh"
 )
 
 type ValueSorter struct {

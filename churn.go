@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	tor "github.com/NullHypothesis/zoossh.git"
+	tor "github.com/NullHypothesis/zoossh"
 )
 
 const (
